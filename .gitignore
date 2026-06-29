@@ -12,3 +12,10 @@ Chapter14/Assets/Saved.gplevel
 Chapter14/Assets/*.bin
 External/FMOD
 build/
+
+# Build artifacts per chapter
+obj/
+bin/
+build/
+*.o
+*.obj
